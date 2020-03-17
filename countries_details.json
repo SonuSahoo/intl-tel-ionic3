@@ -1,0 +1,1962 @@
+[
+    {
+        "search_field": "+93, Afghanistan",
+        "calling_codes": "+93",
+        "country_code": "AF",
+        "country_name": "Afghanistan",
+        "country_img": "../assets/country_flag/af.png",
+        "number_example": "070 123 4567"
+    },
+    {
+        "search_field": "+358, Aland Islands",
+        "calling_codes": "+358",
+        "country_code": "AX",
+        "country_name": "Aland Islands",
+        "country_img": "../assets/country_flag/ax.png",
+        "number_example": ""
+    },
+    {
+        "search_field": "+355, Albania",
+        "calling_codes": "+355",
+        "country_code": "AL",
+        "country_name": "Albania",
+        "country_img": "../assets/country_flag/al.png",
+        "number_example": "066 212 3456"
+    },
+    {
+        "search_field": "+213, Algeria",
+        "calling_codes": "+213",
+        "country_code": "DZ",
+        "country_name": "Algeria",
+        "country_img": "../assets/country_flag/dz.png",
+        "number_example": "0551 23 45 67"
+    },
+    {
+        "search_field": "+1684, American Samoa",
+        "calling_codes": "+1684",
+        "country_code": "AS",
+        "country_name": "American Samoa",
+        "country_img": "../assets/country_flag/as.png",
+        "number_example": "(684) 733-1234"
+    },
+    {
+        "search_field": "+244, Angola",
+        "calling_codes": "+244",
+        "country_code": "AO",
+        "country_name": "Angola",
+        "country_img": "../assets/country_flag/ao.png",
+        "number_example": "923 123 456"
+    },
+    {
+        "search_field": "+1264, Anguilla",
+        "calling_codes": "+1264",
+        "country_code": "AI",
+        "country_name": "Anguilla",
+        "country_img": "../assets/country_flag/ai.png",
+        "number_example": "(264) 235-1234"
+    },
+    {
+        "search_field": "+672, Antarctica",
+        "calling_codes": "+672",
+        "country_code": "AQ",
+        "country_name": "Antarctica",
+        "country_img": "../assets/country_flag/aq.png",
+        "number_example": ""
+    },
+    {
+        "search_field": "+1268, Antigua and Barbuda",
+        "calling_codes": "+1268",
+        "country_code": "AG",
+        "country_name": "Antigua and Barbuda",
+        "country_img": "../assets/country_flag/ag.png",
+        "number_example": "(268) 464-1234"
+    },
+    {
+        "search_field": "+54, Argentina",
+        "calling_codes": "+54",
+        "country_code": "AR",
+        "country_name": "Argentina",
+        "country_img": "../assets/country_flag/ar.png",
+        "number_example": "011 15-2345-6789"
+    },
+    {
+        "search_field": "+374, Armenia",
+        "calling_codes": "+374",
+        "country_code": "AM",
+        "country_name": "Armenia",
+        "country_img": "../assets/country_flag/am.png",
+        "number_example": "077 123456"
+    },
+    {
+        "search_field": "+297, Aruba",
+        "calling_codes": "+297",
+        "country_code": "AW",
+        "country_name": "Aruba",
+        "country_img": "../assets/country_flag/aw.png",
+        "number_example": "560 1234"
+    },
+    {
+        "search_field": "+61, Australia",
+        "calling_codes": "+61",
+        "country_code": "AU",
+        "country_name": "Australia",
+        "country_img": "../assets/country_flag/au.png",
+        "number_example": "0412 345 678"
+    },
+    {
+        "search_field": "+43, Austria",
+        "calling_codes": "+43",
+        "country_code": "AT",
+        "country_name": "Austria",
+        "country_img": "../assets/country_flag/at.png",
+        "number_example": "0664 123456"
+    },
+    {
+        "search_field": "+994, Azerbaijan",
+        "calling_codes": "+994",
+        "country_code": "AZ",
+        "country_name": "Azerbaijan",
+        "country_img": "../assets/country_flag/az.png",
+        "number_example": "040 123 45 67"
+    },
+    {
+        "search_field": "+1242, Bahamas",
+        "calling_codes": "+1242",
+        "country_code": "BS",
+        "country_name": "Bahamas",
+        "country_img": "../assets/country_flag/bs.png",
+        "number_example": "(242) 359-1234"
+    },
+    {
+        "search_field": "+973, Bahrain",
+        "calling_codes": "+973",
+        "country_code": "BH",
+        "country_name": "Bahrain",
+        "country_img": "../assets/country_flag/bh.png",
+        "number_example": "3600 1234"
+    },
+    {
+        "search_field": "+880, Bangladesh",
+        "calling_codes": "+880",
+        "country_code": "BD",
+        "country_name": "Bangladesh",
+        "country_img": "../assets/country_flag/bd.png",
+        "number_example": "01812-345678"
+    },
+    {
+        "search_field": "+1246, Barbados",
+        "calling_codes": "+1246",
+        "country_code": "BB",
+        "country_name": "Barbados",
+        "country_img": "../assets/country_flag/bb.png",
+        "number_example": "(246) 250-1234"
+    },
+    {
+        "search_field": "+375, Belarus",
+        "calling_codes": "+375",
+        "country_code": "BY",
+        "country_name": "Belarus",
+        "country_img": "../assets/country_flag/by.png",
+        "number_example": "8 029 491-19-11"
+    },
+    {
+        "search_field": "+32, Belgium",
+        "calling_codes": "+32",
+        "country_code": "BE",
+        "country_name": "Belgium",
+        "country_img": "../assets/country_flag/be.png",
+        "number_example": "0470 12 34 56"
+    },
+    {
+        "search_field": "+501, Belize",
+        "calling_codes": "+501",
+        "country_code": "BZ",
+        "country_name": "Belize",
+        "country_img": "../assets/country_flag/bz.png",
+        "number_example": "622-1234"
+    },
+    {
+        "search_field": "+229, Benin",
+        "calling_codes": "+229",
+        "country_code": "BJ",
+        "country_name": "Benin",
+        "country_img": "../assets/country_flag/bj.png",
+        "number_example": "90 01 12 34"
+    },
+    {
+        "search_field": "+1441, Bermuda",
+        "calling_codes": "+1441",
+        "country_code": "BM",
+        "country_name": "Bermuda",
+        "country_img": "../assets/country_flag/bm.png",
+        "number_example": "(441) 370-1234"
+    },
+    {
+        "search_field": "+975, Bhutan",
+        "calling_codes": "+975",
+        "country_code": "BT",
+        "country_name": "Bhutan",
+        "country_img": "../assets/country_flag/bt.png",
+        "number_example": "17 12 34 56"
+    },
+    {
+        "search_field": "+591, Bolivia (Plurinational State of)",
+        "calling_codes": "+591",
+        "country_code": "BO",
+        "country_name": "Bolivia (Plurinational State of)",
+        "country_img": "../assets/country_flag/bo.png",
+        "number_example": "71234567"
+    },
+    {
+        "search_field": "+5997, Bonaire, Sint Eustatius and Saba",
+        "calling_codes": "+5997",
+        "country_code": "BQ",
+        "country_name": "Bonaire, Sint Eustatius and Saba",
+        "country_img": "../assets/country_flag/bq.png",
+        "number_example": ""
+    },
+    {
+        "search_field": "+387, Bosnia and Herzegovina",
+        "calling_codes": "+387",
+        "country_code": "BA",
+        "country_name": "Bosnia and Herzegovina",
+        "country_img": "../assets/country_flag/ba.png",
+        "number_example": "061 123 456"
+    },
+    {
+        "search_field": "+267, Botswana",
+        "calling_codes": "+267",
+        "country_code": "BW",
+        "country_name": "Botswana",
+        "country_img": "../assets/country_flag/bw.png",
+        "number_example": "71 123 456"
+    },
+    {
+        "search_field": "+55, Brazil",
+        "calling_codes": "+55",
+        "country_code": "BR",
+        "country_name": "Brazil",
+        "country_img": "../assets/country_flag/br.png",
+        "number_example": "(11) 96123-4567"
+    },
+    {
+        "search_field": "+246, British Indian Ocean Territory",
+        "calling_codes": "+246",
+        "country_code": "IO",
+        "country_name": "British Indian Ocean Territory",
+        "country_img": "../assets/country_flag/io.png",
+        "number_example": "380 1234"
+    },
+    {
+        "search_field": "+1284, Virgin Islands (British)",
+        "calling_codes": "+1284",
+        "country_code": "VG",
+        "country_name": "Virgin Islands (British)",
+        "country_img": "../assets/country_flag/vg.png",
+        "number_example": "(284) 300-1234"
+    },
+    {
+        "search_field": "+1 340, Virgin Islands (U.S.)",
+        "calling_codes": "+1 340",
+        "country_code": "VI",
+        "country_name": "Virgin Islands (U.S.)",
+        "country_img": "../assets/country_flag/vi.png",
+        "number_example": "(340) 642-1234"
+    },
+    {
+        "search_field": "+673, Brunei Darussalam",
+        "calling_codes": "+673",
+        "country_code": "BN",
+        "country_name": "Brunei Darussalam",
+        "country_img": "../assets/country_flag/bn.png",
+        "number_example": "712 3456"
+    },
+    {
+        "search_field": "+359, Bulgaria",
+        "calling_codes": "+359",
+        "country_code": "BG",
+        "country_name": "Bulgaria",
+        "country_img": "../assets/country_flag/bg.png",
+        "number_example": "048 123 456"
+    },
+    {
+        "search_field": "+226, Burkina Faso",
+        "calling_codes": "+226",
+        "country_code": "BF",
+        "country_name": "Burkina Faso",
+        "country_img": "../assets/country_flag/bf.png",
+        "number_example": "70 12 34 56"
+    },
+    {
+        "search_field": "+257, Burundi",
+        "calling_codes": "+257",
+        "country_code": "BI",
+        "country_name": "Burundi",
+        "country_img": "../assets/country_flag/bi.png",
+        "number_example": "79 56 12 34"
+    },
+    {
+        "search_field": "+855, Cambodia",
+        "calling_codes": "+855",
+        "country_code": "KH",
+        "country_name": "Cambodia",
+        "country_img": "../assets/country_flag/kh.png",
+        "number_example": "091 234 567"
+    },
+    {
+        "search_field": "+237, Cameroon",
+        "calling_codes": "+237",
+        "country_code": "CM",
+        "country_name": "Cameroon",
+        "country_img": "../assets/country_flag/cm.png",
+        "number_example": "6 71 23 45 67"
+    },
+    {
+        "search_field": "+1, Canada",
+        "calling_codes": "+1",
+        "country_code": "CA",
+        "country_name": "Canada",
+        "country_img": "../assets/country_flag/ca.png",
+        "number_example": "(204) 234-5678"
+    },
+    {
+        "search_field": "+238, Cabo Verde",
+        "calling_codes": "+238",
+        "country_code": "CV",
+        "country_name": "Cabo Verde",
+        "country_img": "../assets/country_flag/cv.png",
+        "number_example": "991 12 34"
+    },
+    {
+        "search_field": "+1345, Cayman Islands",
+        "calling_codes": "+1345",
+        "country_code": "KY",
+        "country_name": "Cayman Islands",
+        "country_img": "../assets/country_flag/ky.png",
+        "number_example": "(345) 323-1234"
+    },
+    {
+        "search_field": "+236, Central African Republic",
+        "calling_codes": "+236",
+        "country_code": "CF",
+        "country_name": "Central African Republic",
+        "country_img": "../assets/country_flag/cf.png",
+        "number_example": "70 01 23 45"
+    },
+    {
+        "search_field": "+235, Chad",
+        "calling_codes": "+235",
+        "country_code": "TD",
+        "country_name": "Chad",
+        "country_img": "../assets/country_flag/td.png",
+        "number_example": "63 01 23 45"
+    },
+    {
+        "search_field": "+56, Chile",
+        "calling_codes": "+56",
+        "country_code": "CL",
+        "country_name": "Chile",
+        "country_img": "../assets/country_flag/cf.png",
+        "number_example": "9 6123 4567"
+    },
+    {
+        "search_field": "+86, China",
+        "calling_codes": "+86",
+        "country_code": "CN",
+        "country_name": "China",
+        "country_img": "../assets/country_flag/cn.png",
+        "number_example": "131 2345 6789"
+    },
+    {
+        "search_field": "+61, Christmas Island",
+        "calling_codes": "+61",
+        "country_code": "CX",
+        "country_name": "Christmas Island",
+        "country_img": "../assets/country_flag/cx.png",
+        "number_example": "0412 345 678"
+    },
+    {
+        "search_field": "+61, Cocos (Keeling) Islands",
+        "calling_codes": "+61",
+        "country_code": "CC",
+        "country_name": "Cocos (Keeling) Islands",
+        "country_img": "../assets/country_flag/cc.png",
+        "number_example": "0412 345 678"
+    },
+    {
+        "search_field": "+57, Colombia",
+        "calling_codes": "+57",
+        "country_code": "CO",
+        "country_name": "Colombia",
+        "country_img": "../assets/country_flag/co.png",
+        "number_example": "321 1234567"
+    },
+    {
+        "search_field": "+269, Comoros",
+        "calling_codes": "+269",
+        "country_code": "KM",
+        "country_name": "Comoros",
+        "country_img": "../assets/country_flag/km.png",
+        "number_example": "321 23 45"
+    },
+    {
+        "search_field": "+242, Congo",
+        "calling_codes": "+242",
+        "country_code": "CG",
+        "country_name": "Congo",
+        "country_img": "../assets/country_flag/cg.png",
+        "number_example": "06 123 4567"
+    },
+    {
+        "search_field": "+243, Congo (Democratic Republic of the)",
+        "calling_codes": "+243",
+        "country_code": "CD",
+        "country_name": "Congo (Democratic Republic of the)",
+        "country_img": "../assets/country_flag/cd.png",
+        "number_example": "0991 234 567"
+    },
+    {
+        "search_field": "+682, Cook Islands",
+        "calling_codes": "+682",
+        "country_code": "CK",
+        "country_name": "Cook Islands",
+        "country_img": "../assets/country_flag/ck.png",
+        "number_example": "71 234"
+    },
+    {
+        "search_field": "+506, Costa Rica",
+        "calling_codes": "+506",
+        "country_code": "CR",
+        "country_name": "Costa Rica",
+        "country_img": "../assets/country_flag/cr.png",
+        "number_example": "8312 3456"
+    },
+    {
+        "search_field": "+385, Croatia",
+        "calling_codes": "+385",
+        "country_code": "HR",
+        "country_name": "Croatia",
+        "country_img": "../assets/country_flag/hr.png",
+        "number_example": "092 123 4567"
+    },
+    {
+        "search_field": "+53, Cuba",
+        "calling_codes": "+53",
+        "country_code": "CU",
+        "country_name": "Cuba",
+        "country_img": "../assets/country_flag/cu.png",
+        "number_example": "05 1234567"
+    },
+    {
+        "search_field": "+599, Curaçao",
+        "calling_codes": "+599",
+        "country_code": "CW",
+        "country_name": "Curaçao",
+        "country_img": "../assets/country_flag/cw.png",
+        "number_example": "9 518 1234"
+    },
+    {
+        "search_field": "+357, Cyprus",
+        "calling_codes": "+357",
+        "country_code": "CY",
+        "country_name": "Cyprus",
+        "country_img": "../assets/country_flag/cy.png",
+        "number_example": "96 123456"
+    },
+    {
+        "search_field": "+420, Czech Republic",
+        "calling_codes": "+420",
+        "country_code": "CZ",
+        "country_name": "Czech Republic",
+        "country_img": "../assets/country_flag/cz.png",
+        "number_example": "601 123 456"
+    },
+    {
+        "search_field": "+45, Denmark",
+        "calling_codes": "+45",
+        "country_code": "DK",
+        "country_name": "Denmark",
+        "country_img": "../assets/country_flag/dk.png",
+        "number_example": "20 12 34 56"
+    },
+    {
+        "search_field": "+253, Djibouti",
+        "calling_codes": "+253",
+        "country_code": "DJ",
+        "country_name": "Djibouti",
+        "country_img": "../assets/country_flag/dj.png",
+        "number_example": "77 83 10 01"
+    },
+    {
+        "search_field": "+1767, Dominica",
+        "calling_codes": "+1767",
+        "country_code": "DM",
+        "country_name": "Dominica",
+        "country_img": "../assets/country_flag/dm.png",
+        "number_example": "(767) 225-1234"
+    },
+    {
+        "search_field": "+1809, Dominican Republic",
+        "calling_codes": "+1809",
+        "country_code": "DO",
+        "country_name": "Dominican Republic",
+        "country_img": "../assets/country_flag/do.png",
+        "number_example": ""
+    },
+    {
+        "search_field": "+593, Ecuador",
+        "calling_codes": "+593",
+        "country_code": "EC",
+        "country_name": "Ecuador",
+        "country_img": "../assets/country_flag/ec.png",
+        "number_example": "099 123 4567"
+    },
+    {
+        "search_field": "+20, Egypt",
+        "calling_codes": "+20",
+        "country_code": "EG",
+        "country_name": "Egypt",
+        "country_img": "../assets/country_flag/eg.png",
+        "number_example": "0100 123 4567"
+    },
+    {
+        "search_field": "+503, El Salvador",
+        "calling_codes": "+503",
+        "country_code": "SV",
+        "country_name": "El Salvador",
+        "country_img": "../assets/country_flag/sv.png",
+        "number_example": "7012 3456"
+    },
+    {
+        "search_field": "+240, Equatorial Guinea",
+        "calling_codes": "+240",
+        "country_code": "GQ",
+        "country_name": "Equatorial Guinea",
+        "country_img": "../assets/country_flag/gq.png",
+        "number_example": "222 123 456"
+    },
+    {
+        "search_field": "+291, Eritrea",
+        "calling_codes": "+291",
+        "country_code": "ER",
+        "country_name": "Eritrea",
+        "country_img": "../assets/country_flag/er.png",
+        "number_example": "07 123 456"
+    },
+    {
+        "search_field": "+372, Estonia",
+        "calling_codes": "+372",
+        "country_code": "EE",
+        "country_name": "Estonia",
+        "country_img": "../assets/country_flag/ee.png",
+        "number_example": "5123 4567"
+    },
+    {
+        "search_field": "+251, Ethiopia",
+        "calling_codes": "+251",
+        "country_code": "ET",
+        "country_name": "Ethiopia",
+        "country_img": "../assets/country_flag/et.png",
+        "number_example": "091 123 4567"
+    },
+    {
+        "search_field": "+500, Falkland Islands (Malvinas)",
+        "calling_codes": "+500",
+        "country_code": "FK",
+        "country_name": "Falkland Islands (Malvinas)",
+        "country_img": "../assets/country_flag/fk.png",
+        "number_example": "51234"
+    },
+    {
+        "search_field": "+298, Faroe Islands",
+        "calling_codes": "+298",
+        "country_code": "FO",
+        "country_name": "Faroe Islands",
+        "country_img": "../assets/country_flag/fo.png",
+        "number_example": "211234"
+    },
+    {
+        "search_field": "+679, Fiji",
+        "calling_codes": "+679",
+        "country_code": "FJ",
+        "country_name": "Fiji",
+        "country_img": "../assets/country_flag/fj.png",
+        "number_example": "701 2345"
+    },
+    {
+        "search_field": "+358, Finland",
+        "calling_codes": "+358",
+        "country_code": "FI",
+        "country_name": "Finland",
+        "country_img": "../assets/country_flag/fi.png",
+        "number_example": "041 2345678"
+    },
+    {
+        "search_field": "+33, France",
+        "calling_codes": "+33",
+        "country_code": "FR",
+        "country_name": "France",
+        "country_img": "../assets/country_flag/fr.png",
+        "number_example": "06 12 34 56 78"
+    },
+    {
+        "search_field": "+594, French Guiana",
+        "calling_codes": "+594",
+        "country_code": "GF",
+        "country_name": "French Guiana",
+        "country_img": "../assets/country_flag/gf.png",
+        "number_example": "0694 20 12 34"
+    },
+    {
+        "search_field": "+689, French Polynesia",
+        "calling_codes": "+689",
+        "country_code": "PF",
+        "country_name": "French Polynesia",
+        "country_img": "../assets/country_flag/pf.png",
+        "number_example": "87 12 34 56"
+    },
+    {
+        "search_field": "+241, Gabon",
+        "calling_codes": "+241",
+        "country_code": "GA",
+        "country_name": "Gabon",
+        "country_img": "../assets/country_flag/ga.png",
+        "number_example": "06 03 12 34"
+    },
+    {
+        "search_field": "+220, Gambia",
+        "calling_codes": "+220",
+        "country_code": "GM",
+        "country_name": "Gambia",
+        "country_img": "../assets/country_flag/gm.png",
+        "number_example": "301 2345"
+    },
+    {
+        "search_field": "+995, Georgia",
+        "calling_codes": "+995",
+        "country_code": "GE",
+        "country_name": "Georgia",
+        "country_img": "../assets/country_flag/ge.png",
+        "number_example": "555 12 34 56"
+    },
+    {
+        "search_field": "+49, Germany",
+        "calling_codes": "+49",
+        "country_code": "DE",
+        "country_name": "Germany",
+        "country_img": "../assets/country_flag/de.png",
+        "number_example": "01512 3456789"
+    },
+    {
+        "search_field": "+233, Ghana",
+        "calling_codes": "+233",
+        "country_code": "GH",
+        "country_name": "Ghana",
+        "country_img": "../assets/country_flag/gh.png",
+        "number_example": "023 123 4567"
+    },
+    {
+        "search_field": "+350, Gibraltar",
+        "calling_codes": "+350",
+        "country_code": "GI",
+        "country_name": "Gibraltar",
+        "country_img": "../assets/country_flag/gi.png",
+        "number_example": "57123456"
+    },
+    {
+        "search_field": "+30, Greece",
+        "calling_codes": "+30",
+        "country_code": "GR",
+        "country_name": "Greece",
+        "country_img": "../assets/country_flag/gr.png",
+        "number_example": "691 234 5678"
+    },
+    {
+        "search_field": "+299, Greenland",
+        "calling_codes": "+299",
+        "country_code": "GL",
+        "country_name": "Greenland",
+        "country_img": "../assets/country_flag/gl.png",
+        "number_example": "22 12 34"
+    },
+    {
+        "search_field": "+1473, Grenada",
+        "calling_codes": "+1473",
+        "country_code": "GD",
+        "country_name": "Grenada",
+        "country_img": "../assets/country_flag/gd.png",
+        "number_example": "(473) 403-1234"
+    },
+    {
+        "search_field": "+590, Guadeloupe",
+        "calling_codes": "+590",
+        "country_code": "GP",
+        "country_name": "Guadeloupe",
+        "country_img": "../assets/country_flag/gp.png",
+        "number_example": "0690 00 12 34"
+    },
+    {
+        "search_field": "+1671, Guam",
+        "calling_codes": "+1671",
+        "country_code": "GU",
+        "country_name": "Guam",
+        "country_img": "../assets/country_flag/gu.png",
+        "number_example": "(671) 300-1234"
+    },
+    {
+        "search_field": "+502, Guatemala",
+        "calling_codes": "+502",
+        "country_code": "GT",
+        "country_name": "Guatemala",
+        "country_img": "../assets/country_flag/gt.png",
+        "number_example": "5123 4567"
+    },
+    {
+        "search_field": "+44, Guernsey",
+        "calling_codes": "+44",
+        "country_code": "GG",
+        "country_name": "Guernsey",
+        "country_img": "../assets/country_flag/gg.png",
+        "number_example": "07781 123456"
+    },
+    {
+        "search_field": "+224, Guinea",
+        "calling_codes": "+224",
+        "country_code": "GN",
+        "country_name": "Guinea",
+        "country_img": "../assets/country_flag/gn.png",
+        "number_example": "601 12 34 56"
+    },
+    {
+        "search_field": "+245, Guinea-Bissau",
+        "calling_codes": "+245",
+        "country_code": "GW",
+        "country_name": "Guinea-Bissau",
+        "country_img": "../assets/country_flag/gw.png",
+        "number_example": "955 012 345"
+    },
+    {
+        "search_field": "+592, Guyana",
+        "calling_codes": "+592",
+        "country_code": "GY",
+        "country_name": "Guyana",
+        "country_img": "../assets/country_flag/gy.png",
+        "number_example": "609 1234"
+    },
+    {
+        "search_field": "+509, Haiti",
+        "calling_codes": "+509",
+        "country_code": "HT",
+        "country_name": "Haiti",
+        "country_img": "../assets/country_flag/ht.png",
+        "number_example": "34 10 1234"
+    },
+    {
+        "search_field": "+379, Holy See",
+        "calling_codes": "+379",
+        "country_code": "VA",
+        "country_name": "Holy See",
+        "country_img": "../assets/country_flag/va.png",
+        "number_example": ""
+    },
+    {
+        "search_field": "+504, Honduras",
+        "calling_codes": "+504",
+        "country_code": "HN",
+        "country_name": "Honduras",
+        "country_img": "../assets/country_flag/hn.png",
+        "number_example": "9123-4567"
+    },
+    {
+        "search_field": "+852, Hong Kong",
+        "calling_codes": "+852",
+        "country_code": "HK",
+        "country_name": "Hong Kong",
+        "country_img": "../assets/country_flag/hk.png",
+        "number_example": "5123 4567"
+    },
+    {
+        "search_field": "+36, Hungary",
+        "calling_codes": "+36",
+        "country_code": "HU",
+        "country_name": "Hungary",
+        "country_img": "../assets/country_flag/hu.png",
+        "number_example": "(20) 123 4567"
+    },
+    {
+        "search_field": "+354, Iceland",
+        "calling_codes": "+354",
+        "country_code": "IS",
+        "country_name": "Iceland",
+        "country_img": "../assets/country_flag/is.png",
+        "number_example": "611 1234"
+    },
+    {
+        "search_field": "+91, India",
+        "calling_codes": "+91",
+        "country_code": "IN",
+        "country_name": "India",
+        "country_img": "../assets/country_flag/in.png",
+        "number_example": "081234 56789"
+    },
+    {
+        "search_field": "+62, Indonesia",
+        "calling_codes": "+62",
+        "country_code": "ID",
+        "country_name": "Indonesia",
+        "country_img": "../assets/country_flag/id.png",
+        "number_example": "0812-345-678"
+    },
+    {
+        "search_field": "+225, Côte d'Ivoire",
+        "calling_codes": "+225",
+        "country_code": "CI",
+        "country_name": "Côte d'Ivoire",
+        "country_img": "../assets/country_flag/ci.png",
+        "number_example": "01 23 45 67"
+    },
+    {
+        "search_field": "+98, Iran (Islamic Republic of)",
+        "calling_codes": "+98",
+        "country_code": "IR",
+        "country_name": "Iran (Islamic Republic of)",
+        "country_img": "../assets/country_flag/ir.png",
+        "number_example": "0912 345 6789"
+    },
+    {
+        "search_field": "+964, Iraq",
+        "calling_codes": "+964",
+        "country_code": "IQ",
+        "country_name": "Iraq",
+        "country_img": "../assets/country_flag/iq.png",
+        "number_example": "0791 234 5678"
+    },
+    {
+        "search_field": "+353, Ireland",
+        "calling_codes": "+353",
+        "country_code": "IE",
+        "country_name": "Ireland",
+        "country_img": "../assets/country_flag/ie.png",
+        "number_example": "085 012 3456"
+    },
+    {
+        "search_field": "+44, Isle of Man",
+        "calling_codes": "+44",
+        "country_code": "IM",
+        "country_name": "Isle of Man",
+        "country_img": "../assets/country_flag/im.png",
+        "number_example": "07924 123456"
+    },
+    {
+        "search_field": "+972, Israel",
+        "calling_codes": "+972",
+        "country_code": "IL",
+        "country_name": "Israel",
+        "country_img": "../assets/country_flag/il.png",
+        "number_example": "050-123-4567"
+    },
+    {
+        "search_field": "+39, Italy",
+        "calling_codes": "+39",
+        "country_code": "IT",
+        "country_name": "Italy",
+        "country_img": "../assets/country_flag/it.png",
+        "number_example": "312 345 6789"
+    },
+    {
+        "search_field": "+1876, Jamaica",
+        "calling_codes": "+1876",
+        "country_code": "JM",
+        "country_name": "Jamaica",
+        "country_img": "../assets/country_flag/jm.png",
+        "number_example": "(876) 210-1234"
+    },
+    {
+        "search_field": "+81, Japan",
+        "calling_codes": "+81",
+        "country_code": "JP",
+        "country_name": "Japan",
+        "country_img": "../assets/country_flag/jp.png",
+        "number_example": "090-1234-5678"
+    },
+    {
+        "search_field": "+44, Jersey",
+        "calling_codes": "+44",
+        "country_code": "JE",
+        "country_name": "Jersey",
+        "country_img": "../assets/country_flag/je.png",
+        "number_example": "07797 712345"
+    },
+    {
+        "search_field": "+962, Jordan",
+        "calling_codes": "+962",
+        "country_code": "JO",
+        "country_name": "Jordan",
+        "country_img": "../assets/country_flag/jo.png",
+        "number_example": "07 9012 3456"
+    },
+    {
+        "search_field": "+76, Kazakhstan",
+        "calling_codes": "+76",
+        "country_code": "KZ",
+        "country_name": "Kazakhstan",
+        "country_img": "../assets/country_flag/kz.png",
+        "number_example": "8 (771) 000 9998"
+    },
+    {
+        "search_field": "+254, Kenya",
+        "calling_codes": "+254",
+        "country_code": "KE",
+        "country_name": "Kenya",
+        "country_img": "../assets/country_flag/ke.png",
+        "number_example": "0712 123456"
+    },
+    {
+        "search_field": "+686, Kiribati",
+        "calling_codes": "+686",
+        "country_code": "KI",
+        "country_name": "Kiribati",
+        "country_img": "../assets/country_flag/ki.png",
+        "number_example": "72001234"
+    },
+    {
+        "search_field": "+965, Kuwait",
+        "calling_codes": "+965",
+        "country_code": "KW",
+        "country_name": "Kuwait",
+        "country_img": "../assets/country_flag/kw.png",
+        "number_example": "500 12345"
+    },
+    {
+        "search_field": "+996, Kyrgyzstan",
+        "calling_codes": "+996",
+        "country_code": "KG",
+        "country_name": "Kyrgyzstan",
+        "country_img": "../assets/country_flag/kg.png",
+        "number_example": "0700 123 456"
+    },
+    {
+        "search_field": "+856, Lao People's Democratic Republic",
+        "calling_codes": "+856",
+        "country_code": "LA",
+        "country_name": "Lao People's Democratic Republic",
+        "country_img": "../assets/country_flag/la.png",
+        "number_example": "020 23 123 456"
+    },
+    {
+        "search_field": "+371, Latvia",
+        "calling_codes": "+371",
+        "country_code": "LV",
+        "country_name": "Latvia",
+        "country_img": "../assets/country_flag/lv.png",
+        "number_example": "21 234 567"
+    },
+    {
+        "search_field": "+961, Lebanon",
+        "calling_codes": "+961",
+        "country_code": "LB",
+        "country_name": "Lebanon",
+        "country_img": "../assets/country_flag/lb.png",
+        "number_example": "71 123 456"
+    },
+    {
+        "search_field": "+266, Lesotho",
+        "calling_codes": "+266",
+        "country_code": "LS",
+        "country_name": "Lesotho",
+        "country_img": "../assets/country_flag/ls.png",
+        "number_example": "5012 3456"
+    },
+    {
+        "search_field": "+231, Liberia",
+        "calling_codes": "+231",
+        "country_code": "LR",
+        "country_name": "Liberia",
+        "country_img": "../assets/country_flag/lr.png",
+        "number_example": "077 012 3456"
+    },
+    {
+        "search_field": "+218, Libya",
+        "calling_codes": "+218",
+        "country_code": "LY",
+        "country_name": "Libya",
+        "country_img": "../assets/country_flag/ly.png",
+        "number_example": "091-2345678"
+    },
+    {
+        "search_field": "+423, Liechtenstein",
+        "calling_codes": "+423",
+        "country_code": "LI",
+        "country_name": "Liechtenstein",
+        "country_img": "../assets/country_flag/li.png",
+        "number_example": "660 234 567"
+    },
+    {
+        "search_field": "+370, Lithuania",
+        "calling_codes": "+370",
+        "country_code": "LT",
+        "country_name": "Lithuania",
+        "country_img": "../assets/country_flag/lt.png",
+        "number_example": "(8-612) 34567"
+    },
+    {
+        "search_field": "+352, Luxembourg",
+        "calling_codes": "+352",
+        "country_code": "LU",
+        "country_name": "Luxembourg",
+        "country_img": "../assets/country_flag/lu.png",
+        "number_example": "628 123 456"
+    },
+    {
+        "search_field": "+853, Macao",
+        "calling_codes": "+853",
+        "country_code": "MO",
+        "country_name": "Macao",
+        "country_img": "../assets/country_flag/mo.png",
+        "number_example": "6612 3456"
+    },
+    {
+        "search_field": "+389, Macedonia (the former Yugoslav Republic of)",
+        "calling_codes": "+389",
+        "country_code": "MK",
+        "country_name": "Macedonia (the former Yugoslav Republic of)",
+        "country_img": "../assets/country_flag/mk.png",
+        "number_example": "072 345 678"
+    },
+    {
+        "search_field": "+261, Madagascar",
+        "calling_codes": "+261",
+        "country_code": "MG",
+        "country_name": "Madagascar",
+        "country_img": "../assets/country_flag/mg.png",
+        "number_example": "032 12 345 67"
+    },
+    {
+        "search_field": "+265, Malawi",
+        "calling_codes": "+265",
+        "country_code": "MW",
+        "country_name": "Malawi",
+        "country_img": "../assets/country_flag/mw.png",
+        "number_example": "0991 23 45 67"
+    },
+    {
+        "search_field": "+60, Malaysia",
+        "calling_codes": "+60",
+        "country_code": "MY",
+        "country_name": "Malaysia",
+        "country_img": "../assets/country_flag/my.png",
+        "number_example": "012-345 6789"
+    },
+    {
+        "search_field": "+960, Maldives",
+        "calling_codes": "+960",
+        "country_code": "MV",
+        "country_name": "Maldives",
+        "country_img": "../assets/country_flag/mv.png",
+        "number_example": "771-2345"
+    },
+    {
+        "search_field": "+223, Mali",
+        "calling_codes": "+223",
+        "country_code": "ML",
+        "country_name": "Mali",
+        "country_img": "../assets/country_flag/ml.png",
+        "number_example": "65 01 23 45"
+    },
+    {
+        "search_field": "+356, Malta",
+        "calling_codes": "+356",
+        "country_code": "MT",
+        "country_name": "Malta",
+        "country_img": "../assets/country_flag/mt.png",
+        "number_example": "9696 1234"
+    },
+    {
+        "search_field": "+692, Marshall Islands",
+        "calling_codes": "+692",
+        "country_code": "MH",
+        "country_name": "Marshall Islands",
+        "country_img": "../assets/country_flag/mh.png",
+        "number_example": "235-1234"
+    },
+    {
+        "search_field": "+596, Martinique",
+        "calling_codes": "+596",
+        "country_code": "MQ",
+        "country_name": "Martinique",
+        "country_img": "../assets/country_flag/mq.png",
+        "number_example": "0696 20 12 34"
+    },
+    {
+        "search_field": "+222, Mauritania",
+        "calling_codes": "+222",
+        "country_code": "MR",
+        "country_name": "Mauritania",
+        "country_img": "../assets/country_flag/mr.png",
+        "number_example": "22 12 34 56"
+    },
+    {
+        "search_field": "+230, Mauritius",
+        "calling_codes": "+230",
+        "country_code": "MU",
+        "country_name": "Mauritius",
+        "country_img": "../assets/country_flag/mu.png",
+        "number_example": "5251 2345"
+    },
+    {
+        "search_field": "+262, Mayotte",
+        "calling_codes": "+262",
+        "country_code": "YT",
+        "country_name": "Mayotte",
+        "country_img": "../assets/country_flag/yt.png",
+        "number_example": "0639 01 23 45"
+    },
+    {
+        "search_field": "+52, Mexico",
+        "calling_codes": "+52",
+        "country_code": "MX",
+        "country_name": "Mexico",
+        "country_img": "../assets/country_flag/mx.png",
+        "number_example": "044 222 123 4567"
+    },
+    {
+        "search_field": "+691, Micronesia (Federated States of)",
+        "calling_codes": "+691",
+        "country_code": "FM",
+        "country_name": "Micronesia (Federated States of)",
+        "country_img": "../assets/country_flag/fm.png",
+        "number_example": "350 1234"
+    },
+    {
+        "search_field": "+373, Moldova (Republic of)",
+        "calling_codes": "+373",
+        "country_code": "MD",
+        "country_name": "Moldova (Republic of)",
+        "country_img": "../assets/country_flag/md.png",
+        "number_example": "0621 12 345"
+    },
+    {
+        "search_field": "+377, Monaco",
+        "calling_codes": "+377",
+        "country_code": "MC",
+        "country_name": "Monaco",
+        "country_img": "../assets/country_flag/mc.png",
+        "number_example": "06 12 34 56 78"
+    },
+    {
+        "search_field": "+976, Mongolia",
+        "calling_codes": "+976",
+        "country_code": "MN",
+        "country_name": "Mongolia",
+        "country_img": "../assets/country_flag/mn.png",
+        "number_example": "8812 3456"
+    },
+    {
+        "search_field": "+382, Montenegro",
+        "calling_codes": "+382",
+        "country_code": "ME",
+        "country_name": "Montenegro",
+        "country_img": "../assets/country_flag/me.png",
+        "number_example": "067 622 901"
+    },
+    {
+        "search_field": "+1664, Montserrat",
+        "calling_codes": "+1664",
+        "country_code": "MS",
+        "country_name": "Montserrat",
+        "country_img": "../assets/country_flag/ms.png",
+        "number_example": "(664) 492-3456"
+    },
+    {
+        "search_field": "+212, Morocco",
+        "calling_codes": "+212",
+        "country_code": "MA",
+        "country_name": "Morocco",
+        "country_img": "../assets/country_flag/ma.png",
+        "number_example": "0650-123456"
+    },
+    {
+        "search_field": "+258, Mozambique",
+        "calling_codes": "+258",
+        "country_code": "MZ",
+        "country_name": "Mozambique",
+        "country_img": "../assets/country_flag/mz.png",
+        "number_example": "82 123 4567"
+    },
+    {
+        "search_field": "+95, Myanmar",
+        "calling_codes": "+95",
+        "country_code": "MM",
+        "country_name": "Myanmar",
+        "country_img": "../assets/country_flag/mm.png",
+        "number_example": "09 212 3456"
+    },
+    {
+        "search_field": "+264, Namibia",
+        "calling_codes": "+264",
+        "country_code": "NA",
+        "country_name": "Namibia",
+        "country_img": "../assets/country_flag/na.png",
+        "number_example": "081 123 4567"
+    },
+    {
+        "search_field": "+674, Nauru",
+        "calling_codes": "+674",
+        "country_code": "NR",
+        "country_name": "Nauru",
+        "country_img": "../assets/country_flag/nr.png",
+        "number_example": "555 1234"
+    },
+    {
+        "search_field": "+977, Nepal",
+        "calling_codes": "+977",
+        "country_code": "NP",
+        "country_name": "Nepal",
+        "country_img": "../assets/country_flag/np.png",
+        "number_example": "984-1234567"
+    },
+    {
+        "search_field": "+31, Netherlands",
+        "calling_codes": "+31",
+        "country_code": "NL",
+        "country_name": "Netherlands",
+        "country_img": "../assets/country_flag/nl.png",
+        "number_example": "06 12345678"
+    },
+    {
+        "search_field": "+687, New Caledonia",
+        "calling_codes": "+687",
+        "country_code": "NC",
+        "country_name": "New Caledonia",
+        "country_img": "../assets/country_flag/nc.png",
+        "number_example": "75.12.34"
+    },
+    {
+        "search_field": "+64, New Zealand",
+        "calling_codes": "+64",
+        "country_code": "NZ",
+        "country_name": "New Zealand",
+        "country_img": "../assets/country_flag/nz.png",
+        "number_example": "021 123 4567"
+    },
+    {
+        "search_field": "+505, Nicaragua",
+        "calling_codes": "+505",
+        "country_code": "NI",
+        "country_name": "Nicaragua",
+        "country_img": "../assets/country_flag/ni.png",
+        "number_example": "8123 4567"
+    },
+    {
+        "search_field": "+227, Niger",
+        "calling_codes": "+227",
+        "country_code": "NE",
+        "country_name": "Niger",
+        "country_img": "../assets/country_flag/ne.png",
+        "number_example": "93 12 34 56"
+    },
+    {
+        "search_field": "+234, Nigeria",
+        "calling_codes": "+234",
+        "country_code": "NG",
+        "country_name": "Nigeria",
+        "country_img": "../assets/country_flag/ng.png",
+        "number_example": "0802 123 4567"
+    },
+    {
+        "search_field": "+683, Niue",
+        "calling_codes": "+683",
+        "country_code": "NU",
+        "country_name": "Niue",
+        "country_img": "../assets/country_flag/nu.png",
+        "number_example": "1234"
+    },
+    {
+        "search_field": "+672, Norfolk Island",
+        "calling_codes": "+672",
+        "country_code": "NF",
+        "country_name": "Norfolk Island",
+        "country_img": "../assets/country_flag/nf.png",
+        "number_example": "3 81234"
+    },
+    {
+        "search_field": "+850, Korea (Democratic People's Republic of)",
+        "calling_codes": "+850",
+        "country_code": "KP",
+        "country_name": "Korea (Democratic People's Republic of)",
+        "country_img": "../assets/country_flag/kp.png",
+        "number_example": "0192 123 4567"
+    },
+    {
+        "search_field": "+1670, Northern Mariana Islands",
+        "calling_codes": "+1670",
+        "country_code": "MP",
+        "country_name": "Northern Mariana Islands",
+        "country_img": "../assets/country_flag/mp.png",
+        "number_example": "(670) 234-5678"
+    },
+    {
+        "search_field": "+47, Norway",
+        "calling_codes": "+47",
+        "country_code": "NO",
+        "country_name": "Norway",
+        "country_img": "../assets/country_flag/no.png",
+        "number_example": "406 12 345"
+    },
+    {
+        "search_field": "+968, Oman",
+        "calling_codes": "+968",
+        "country_code": "OM",
+        "country_name": "Oman",
+        "country_img": "../assets/country_flag/om.png",
+        "number_example": "9212 3456"
+    },
+    {
+        "search_field": "+92, Pakistan",
+        "calling_codes": "+92",
+        "country_code": "PK",
+        "country_name": "Pakistan",
+        "country_img": "../assets/country_flag/pk.png",
+        "number_example": "0301 2345678"
+    },
+    {
+        "search_field": "+680, Palau",
+        "calling_codes": "+680",
+        "country_code": "PW",
+        "country_name": "Palau",
+        "country_img": "../assets/country_flag/pw.png",
+        "number_example": "620 1234"
+    },
+    {
+        "search_field": "+970, Palestine, State of",
+        "calling_codes": "+970",
+        "country_code": "PS",
+        "country_name": "Palestine, State of",
+        "country_img": "../assets/country_flag/ps.png",
+        "number_example": "0599 123 456"
+    },
+    {
+        "search_field": "+507, Panama",
+        "calling_codes": "+507",
+        "country_code": "PA",
+        "country_name": "Panama",
+        "country_img": "../assets/country_flag/pa.png",
+        "number_example": "6123-4567"
+    },
+    {
+        "search_field": "+675, Papua New Guinea",
+        "calling_codes": "+675",
+        "country_code": "PG",
+        "country_name": "Papua New Guinea",
+        "country_img": "../assets/country_flag/pg.png",
+        "number_example": "7012 3456"
+    },
+    {
+        "search_field": "+595, Paraguay",
+        "calling_codes": "+595",
+        "country_code": "PY",
+        "country_name": "Paraguay",
+        "country_img": "../assets/country_flag/py.png",
+        "number_example": "0961 456789"
+    },
+    {
+        "search_field": "+51, Peru",
+        "calling_codes": "+51",
+        "country_code": "PE",
+        "country_name": "Peru",
+        "country_img": "../assets/country_flag/pe.png",
+        "number_example": "912 345 678"
+    },
+    {
+        "search_field": "+63, Philippines",
+        "calling_codes": "+63",
+        "country_code": "PH",
+        "country_name": "Philippines",
+        "country_img": "../assets/country_flag/ph.png",
+        "number_example": "0905 123 4567"
+    },
+    {
+        "search_field": "+64, Pitcairn",
+        "calling_codes": "+64",
+        "country_code": "PN",
+        "country_name": "Pitcairn",
+        "country_img": "../assets/country_flag/pn.png",
+        "number_example": ""
+    },
+    {
+        "search_field": "+48, Poland",
+        "calling_codes": "+48",
+        "country_code": "PL",
+        "country_name": "Poland",
+        "country_img": "../assets/country_flag/pl.png",
+        "number_example": "512 345 678"
+    },
+    {
+        "search_field": "+351, Portugal",
+        "calling_codes": "+351",
+        "country_code": "PT",
+        "country_name": "Portugal",
+        "country_img": "../assets/country_flag/pt.png",
+        "number_example": "912 345 678"
+    },
+    {
+        "search_field": "+1, Puerto Rico",
+        "calling_codes": "+1",
+        "country_code": "PR",
+        "country_name": "Puerto Rico",
+        "country_img": "../assets/country_flag/pr.png",
+        "number_example": "(787) 234-5678"
+    },
+    {
+        "search_field": "+974, Qatar",
+        "calling_codes": "+974",
+        "country_code": "QA",
+        "country_name": "Qatar",
+        "country_img": "../assets/country_flag/qa.png",
+        "number_example": "3312 3456"
+    },
+    {
+        "search_field": "+383, Republic of Kosovo",
+        "calling_codes": "+383",
+        "country_code": "XK",
+        "country_name": "Republic of Kosovo",
+        "country_img": "../assets/country_flag/xk.png",
+        "number_example": "043 201 234"
+    },
+    {
+        "search_field": "+262, Réunion",
+        "calling_codes": "+262",
+        "country_code": "RE",
+        "country_name": "Réunion",
+        "country_img": "../assets/country_flag/re.png",
+        "number_example": "0692 12 34 56"
+    },
+    {
+        "search_field": "+40, Romania",
+        "calling_codes": "+40",
+        "country_code": "RO",
+        "country_name": "Romania",
+        "country_img": "../assets/country_flag/ro.png",
+        "number_example": "0712 034 567"
+    },
+    {
+        "search_field": "+7, Russian Federation",
+        "calling_codes": "+7",
+        "country_code": "RU",
+        "country_name": "Russian Federation",
+        "country_img": "../assets/country_flag/ru.png",
+        "number_example": "8 (912) 345-67-89"
+    },
+    {
+        "search_field": "+250, Rwanda",
+        "calling_codes": "+250",
+        "country_code": "RW",
+        "country_name": "Rwanda",
+        "country_img": "../assets/country_flag/rw.png",
+        "number_example": "0720 123 456"
+    },
+    {
+        "search_field": "+590, Saint Barthélemy",
+        "calling_codes": "+590",
+        "country_code": "BL",
+        "country_name": "Saint Barthélemy",
+        "country_img": "../assets/country_flag/bl.png",
+        "number_example": "0690 00 12 34"
+    },
+    {
+        "search_field": "+290, Saint Helena, Ascension and Tristan da Cunha",
+        "calling_codes": "+290",
+        "country_code": "SH",
+        "country_name": "Saint Helena, Ascension and Tristan da Cunha",
+        "country_img": "../assets/country_flag/sh.png",
+        "number_example": "51234"
+    },
+    {
+        "search_field": "+1869, Saint Kitts and Nevis",
+        "calling_codes": "+1869",
+        "country_code": "KN",
+        "country_name": "Saint Kitts and Nevis",
+        "country_img": "../assets/country_flag/kn.png",
+        "number_example": "(869) 765-2917"
+    },
+    {
+        "search_field": "+1758, Saint Lucia",
+        "calling_codes": "+1758",
+        "country_code": "LC",
+        "country_name": "Saint Lucia",
+        "country_img": "../assets/country_flag/lc.png",
+        "number_example": "(758) 284-5678"
+    },
+    {
+        "search_field": "+590, Saint Martin (French part)",
+        "calling_codes": "+590",
+        "country_code": "MF",
+        "country_name": "Saint Martin (French part)",
+        "country_img": "../assets/country_flag/mf.png",
+        "number_example": "0690 00 12 34"
+    },
+    {
+        "search_field": "+508, Saint Pierre and Miquelon",
+        "calling_codes": "+508",
+        "country_code": "PM",
+        "country_name": "Saint Pierre and Miquelon",
+        "country_img": "../assets/country_flag/pm.png",
+        "number_example": "055 12 34"
+    },
+    {
+        "search_field": "+1784, Saint Vincent and the Grenadines",
+        "calling_codes": "+1784",
+        "country_code": "VC",
+        "country_name": "Saint Vincent and the Grenadines",
+        "country_img": "../assets/country_flag/vc.png",
+        "number_example": "(784) 430-1234"
+    },
+    {
+        "search_field": "+685, Samoa",
+        "calling_codes": "+685",
+        "country_code": "WS",
+        "country_name": "Samoa",
+        "country_img": "../assets/country_flag/ws.png",
+        "number_example": "72 12345"
+    },
+    {
+        "search_field": "+378, San Marino",
+        "calling_codes": "+378",
+        "country_code": "SM",
+        "country_name": "San Marino",
+        "country_img": "../assets/country_flag/sm.png",
+        "number_example": "66 66 12 12"
+    },
+    {
+        "search_field": "+239, Sao Tome and Principe",
+        "calling_codes": "+239",
+        "country_code": "ST",
+        "country_name": "Sao Tome and Principe",
+        "country_img": "../assets/country_flag/st.png",
+        "number_example": "981 2345"
+    },
+    {
+        "search_field": "+966, Saudi Arabia",
+        "calling_codes": "+966",
+        "country_code": "SA",
+        "country_name": "Saudi Arabia",
+        "country_img": "../assets/country_flag/sa.png",
+        "number_example": "051 234 5678"
+    },
+    {
+        "search_field": "+221, Senegal",
+        "calling_codes": "+221",
+        "country_code": "SN",
+        "country_name": "Senegal",
+        "country_img": "../assets/country_flag/sn.png",
+        "number_example": "70 123 45 67"
+    },
+    {
+        "search_field": "+381, Serbia",
+        "calling_codes": "+381",
+        "country_code": "RS",
+        "country_name": "Serbia",
+        "country_img": "../assets/country_flag/rs.png",
+        "number_example": "060 1234567"
+    },
+    {
+        "search_field": "+248, Seychelles",
+        "calling_codes": "+248",
+        "country_code": "SC",
+        "country_name": "Seychelles",
+        "country_img": "../assets/country_flag/sc.png",
+        "number_example": "2 510 123"
+    },
+    {
+        "search_field": "+232, Sierra Leone",
+        "calling_codes": "+232",
+        "country_code": "SL",
+        "country_name": "Sierra Leone",
+        "country_img": "../assets/country_flag/sl.png",
+        "number_example": "(025) 123456"
+    },
+    {
+        "search_field": "+65, Singapore",
+        "calling_codes": "+65",
+        "country_code": "SG",
+        "country_name": "Singapore",
+        "country_img": "../assets/country_flag/sg.png",
+        "number_example": "8123 4567"
+    },
+    {
+        "search_field": "+1721, Sint Maarten (Dutch part)",
+        "calling_codes": "+1721",
+        "country_code": "SX",
+        "country_name": "Sint Maarten (Dutch part)",
+        "country_img": "../assets/country_flag/sx.png",
+        "number_example": "(721) 520-5678"
+    },
+    {
+        "search_field": "+421, Slovakia",
+        "calling_codes": "+421",
+        "country_code": "SK",
+        "country_name": "Slovakia",
+        "country_img": "../assets/country_flag/sk.png",
+        "number_example": "0912 123 456"
+    },
+    {
+        "search_field": "+386, Slovenia",
+        "calling_codes": "+386",
+        "country_code": "SI",
+        "country_name": "Slovenia",
+        "country_img": "../assets/country_flag/si.png",
+        "number_example": "031 234 567"
+    },
+    {
+        "search_field": "+677, Solomon Islands",
+        "calling_codes": "+677",
+        "country_code": "SB",
+        "country_name": "Solomon Islands",
+        "country_img": "../assets/country_flag/sb.png",
+        "number_example": "74 21234"
+    },
+    {
+        "search_field": "+252, Somalia",
+        "calling_codes": "+252",
+        "country_code": "SO",
+        "country_name": "Somalia",
+        "country_img": "../assets/country_flag/so.png",
+        "number_example": "7 1123456"
+    },
+    {
+        "search_field": "+27, South Africa",
+        "calling_codes": "+27",
+        "country_code": "ZA",
+        "country_name": "South Africa",
+        "country_img": "../assets/country_flag/za.png",
+        "number_example": "071 123 4567"
+    },
+    {
+        "search_field": "+500, South Georgia and the South Sandwich Islands",
+        "calling_codes": "+500",
+        "country_code": "GS",
+        "country_name": "South Georgia and the South Sandwich Islands",
+        "country_img": "../assets/country_flag/gs.png",
+        "number_example": ""
+    },
+    {
+        "search_field": "+82, Korea (Republic of)",
+        "calling_codes": "+82",
+        "country_code": "KR",
+        "country_name": "Korea (Republic of)",
+        "country_img": "../assets/country_flag/kr.png",
+        "number_example": "010-0000-0000"
+    },
+    {
+        "search_field": "+211, South Sudan",
+        "calling_codes": "+211",
+        "country_code": "SS",
+        "country_name": "South Sudan",
+        "country_img": "../assets/country_flag/ss.png",
+        "number_example": "0977 123 456"
+    },
+    {
+        "search_field": "+34, Spain",
+        "calling_codes": "+34",
+        "country_code": "ES",
+        "country_name": "Spain",
+        "country_img": "../assets/country_flag/es.png",
+        "number_example": "612 34 56 78"
+    },
+    {
+        "search_field": "+94, Sri Lanka",
+        "calling_codes": "+94",
+        "country_code": "LK",
+        "country_name": "Sri Lanka",
+        "country_img": "../assets/country_flag/lk.png",
+        "number_example": "071 234 5678"
+    },
+    {
+        "search_field": "+249, Sudan",
+        "calling_codes": "+249",
+        "country_code": "SD",
+        "country_name": "Sudan",
+        "country_img": "../assets/country_flag/sd.png",
+        "number_example": "091 123 1234"
+    },
+    {
+        "search_field": "+597, Suricountry_name",
+        "calling_codes": "+597",
+        "country_code": "SR",
+        "country_name": "Suricountry_name",
+        "country_img": "../assets/country_flag/sr.png",
+        "number_example": "741-2345"
+    },
+    {
+        "search_field": "+4779, Svalbard and Jan Mayen",
+        "calling_codes": "+4779",
+        "country_code": "SJ",
+        "country_name": "Svalbard and Jan Mayen",
+        "country_img": "../assets/country_flag/sj.png",
+        "number_example": "412 34 567"
+    },
+    {
+        "search_field": "+268, Swaziland",
+        "calling_codes": "+268",
+        "country_code": "SZ",
+        "country_name": "Swaziland",
+        "country_img": "../assets/country_flag/sz.png",
+        "number_example": "7612 3456"
+    },
+    {
+        "search_field": "+46, Sweden",
+        "calling_codes": "+46",
+        "country_code": "SE",
+        "country_name": "Sweden",
+        "country_img": "../assets/country_flag/se.png",
+        "number_example": "070-123 45 67"
+    },
+    {
+        "search_field": "+41, Switzerland",
+        "calling_codes": "+41",
+        "country_code": "CH",
+        "country_name": "Switzerland",
+        "country_img": "../assets/country_flag/ch.png",
+        "number_example": "078 123 45 67"
+    },
+    {
+        "search_field": "+963, Syrian Arab Republic",
+        "calling_codes": "+963",
+        "country_code": "SY",
+        "country_name": "Syrian Arab Republic",
+        "country_img": "../assets/country_flag/sy.png",
+        "number_example": "0944 567 890"
+    },
+    {
+        "search_field": "+886, Taiwan",
+        "calling_codes": "+886",
+        "country_code": "TW",
+        "country_name": "Taiwan",
+        "country_img": "../assets/country_flag/tw.png",
+        "number_example": "0912 345 678"
+    },
+    {
+        "search_field": "+992, Tajikistan",
+        "calling_codes": "+992",
+        "country_code": "TJ",
+        "country_name": "Tajikistan",
+        "country_img": "../assets/country_flag/tj.png",
+        "number_example": "917 12 3456"
+    },
+    {
+        "search_field": "+255, Tanzania, United Republic of",
+        "calling_codes": "+255",
+        "country_code": "TZ",
+        "country_name": "Tanzania, United Republic of",
+        "country_img": "../assets/country_flag/tz.png",
+        "number_example": "0621 234 567"
+    },
+    {
+        "search_field": "+66, Thailand",
+        "calling_codes": "+66",
+        "country_code": "TH",
+        "country_name": "Thailand",
+        "country_img": "../assets/country_flag/th.png",
+        "number_example": "081 234 5678"
+    },
+    {
+        "search_field": "+670, Timor-Leste",
+        "calling_codes": "+670",
+        "country_code": "TL",
+        "country_name": "Timor-Leste",
+        "country_img": "../assets/country_flag/tl.png",
+        "number_example": "7721 2345"
+    },
+    {
+        "search_field": "+228, Togo",
+        "calling_codes": "+228",
+        "country_code": "TG",
+        "country_name": "Togo",
+        "country_img": "../assets/country_flag/tg.png",
+        "number_example": "90 11 23 45"
+    },
+    {
+        "search_field": "+690, Tokelau",
+        "calling_codes": "+690",
+        "country_code": "TK",
+        "country_name": "Tokelau",
+        "country_img": "../assets/country_flag/tk.png",
+        "number_example": "7290"
+    },
+    {
+        "search_field": "+676, Tonga",
+        "calling_codes": "+676",
+        "country_code": "TO",
+        "country_name": "Tonga",
+        "country_img": "../assets/country_flag/to.png",
+        "number_example": "771 5123"
+    },
+    {
+        "search_field": "+1868, Trinidad and Tobago",
+        "calling_codes": "+1868",
+        "country_code": "TT",
+        "country_name": "Trinidad and Tobago",
+        "country_img": "../assets/country_flag/tt.png",
+        "number_example": "(868) 291-1234"
+    },
+    {
+        "search_field": "+216, Tunisia",
+        "calling_codes": "+216",
+        "country_code": "TN",
+        "country_name": "Tunisia",
+        "country_img": "../assets/country_flag/tn.png",
+        "number_example": "20 123 456"
+    },
+    {
+        "search_field": "+90, Turkey",
+        "calling_codes": "+90",
+        "country_code": "TR",
+        "country_name": "Turkey",
+        "country_img": "../assets/country_flag/tr.png",
+        "number_example": "0501 234 56 78"
+    },
+    {
+        "search_field": "+993, Turkmenistan",
+        "calling_codes": "+993",
+        "country_code": "TM",
+        "country_name": "Turkmenistan",
+        "country_img": "../assets/country_flag/tm.png",
+        "number_example": "8 66 123456"
+    },
+    {
+        "search_field": "+1649, Turks and Caicos Islands",
+        "calling_codes": "+1649",
+        "country_code": "TC",
+        "country_name": "Turks and Caicos Islands",
+        "country_img": "../assets/country_flag/tc.png",
+        "number_example": "(649) 231-1234"
+    },
+    {
+        "search_field": "+688, Tuvalu",
+        "calling_codes": "+688",
+        "country_code": "TV",
+        "country_name": "Tuvalu",
+        "country_img": "../assets/country_flag/tv.png",
+        "number_example": "901234"
+    },
+    {
+        "search_field": "+256, Uganda",
+        "calling_codes": "+256",
+        "country_code": "UG",
+        "country_name": "Uganda",
+        "country_img": "../assets/country_flag/ug.png",
+        "number_example": "0712 345678"
+    },
+    {
+        "search_field": "+380, Ukraine",
+        "calling_codes": "+380",
+        "country_code": "UA",
+        "country_name": "Ukraine",
+        "country_img": "../assets/country_flag/ua.png",
+        "number_example": "039 123 4567"
+    },
+    {
+        "search_field": "+971, United Arab Emirates",
+        "calling_codes": "+971",
+        "country_code": "AE",
+        "country_name": "United Arab Emirates",
+        "country_img": "../assets/country_flag/ae.png",
+        "number_example": "050 123 4567"
+    },
+    {
+        "search_field": "+44, United Kingdom of Great Britain and Northern Ireland",
+        "calling_codes": "+44",
+        "country_code": "GB",
+        "country_name": "United Kingdom of Great Britain and Northern Ireland",
+        "country_img": "../assets/country_flag/gb.png",
+        "number_example": "07400 123456"
+    },
+    {
+        "search_field": "+1, United States of America",
+        "calling_codes": "+1",
+        "country_code": "US",
+        "country_name": "United States of America",
+        "country_img": "../assets/country_flag/us.png",
+        "number_example": "(201) 555-0123"
+    },
+    {
+        "search_field": "+598, Uruguay",
+        "calling_codes": "+598",
+        "country_code": "UY",
+        "country_name": "Uruguay",
+        "country_img": "../assets/country_flag/uy.png",
+        "number_example": "094 231 234"
+    },
+    {
+        "search_field": "+998, Uzbekistan",
+        "calling_codes": "+998",
+        "country_code": "UZ",
+        "country_name": "Uzbekistan",
+        "country_img": "../assets/country_flag/uz.png",
+        "number_example": "8 91 234 56 78"
+    },
+    {
+        "search_field": "+678, Vanuatu",
+        "calling_codes": "+678",
+        "country_code": "VU",
+        "country_name": "Vanuatu",
+        "country_img": "../assets/country_flag/vu.png",
+        "number_example": "591 2345"
+    },
+    {
+        "search_field": "+58, Venezuela (Bolivarian Republic of)",
+        "calling_codes": "+58",
+        "country_code": "VE",
+        "country_name": "Venezuela (Bolivarian Republic of)",
+        "country_img": "../assets/country_flag/ve.png",
+        "number_example": "0412-1234567"
+    },
+    {
+        "search_field": "+84, Viet Nam",
+        "calling_codes": "+84",
+        "country_code": "VN",
+        "country_name": "Viet Nam",
+        "country_img": "../assets/country_flag/vn.png",
+        "number_example": "091 234 56 78"
+    },
+    {
+        "search_field": "+681, Wallis and Futuna",
+        "calling_codes": "+681",
+        "country_code": "WF",
+        "country_name": "Wallis and Futuna",
+        "country_img": "../assets/country_flag/wf.png",
+        "number_example": "50 12 34"
+    },
+    {
+        "search_field": "+212, Western Sahara",
+        "calling_codes": "+212",
+        "country_code": "EH",
+        "country_name": "Western Sahara",
+        "country_img": "../assets/country_flag/eh.png",
+        "number_example": "0650-123456"
+    },
+    {
+        "search_field": "+967, Yemen",
+        "calling_codes": "+967",
+        "country_code": "YE",
+        "country_name": "Yemen",
+        "country_img": "../assets/country_flag/ye.png",
+        "number_example": "0712 345 678"
+    },
+    {
+        "search_field": "+260, Zambia",
+        "calling_codes": "+260",
+        "country_code": "ZM",
+        "country_name": "Zambia",
+        "country_img": "../assets/country_flag/zm.png",
+        "number_example": "095 5123456"
+    },
+    {
+        "search_field": "+263, Zimbabwe",
+        "calling_codes": "+263",
+        "country_code": "ZW",
+        "country_name": "Zimbabwe",
+        "country_img": "../assets/country_flag/zw.png",
+        "number_example": "071 234 5678"
+    }
+]
