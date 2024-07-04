@@ -46,4 +46,4 @@ export class AppComponent {
 As you can see in the code above, you will get the output from 'onEnterdata' function.
 
 
-if you have any query please send us a email on sarojctc2010@gmail.com or artisahu028@gmail.com
+if you have any query please send us a email on sarojctc2010@gmail.com
